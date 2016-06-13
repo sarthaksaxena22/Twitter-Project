@@ -1,0 +1,90 @@
+{
+  "db": [
+    {
+      "approved": 1,
+      "date": "03/17/2016",
+      "tweet": "hi from shankar",
+      "datePosted": "03/16/2016",
+      "postedOnTwitter": 1,
+      "id": 1
+    },
+    {
+      "approved": 1,
+      "date": "03/16/2016",
+      "tweet": "hi from vishal",
+      "datePosted": "03/16/2016",
+      "postedOnTwitter": 1,
+      "id": 2
+    },
+    {
+      "approved": 1,
+      "date": "03/17/2016",
+      "tweet": "hi form shanky",
+      "datePosted": "03/16/2016",
+      "postedOnTwitter": 1,
+      "id": 3
+    },
+    {
+      "approved": 1,
+      "date": "03/17/2016",
+      "tweet": "nope!!!!",
+      "datePosted": "03/16/2016",
+      "postedOnTwitter": 1,
+      "id": 4
+    },
+    {
+      "approved": 1,
+      "date": "03/19/2016",
+      "tweet": "nimme",
+      "datePosted": "03/16/2016",
+      "postedOnTwitter": 0,
+      "id": 5
+    },
+    {
+      "approved": 1,
+      "date": "03/16/2016",
+      "tweet": "now on twitter",
+      "datePosted": "03/16/2016",
+      "postedOnTwitter": 1,
+      "id": 6
+    },
+    {
+      "approved": 1,
+      "date": "03/17/2016",
+      "tweet": "first tweet from sarthak",
+      "datePosted": "03/17/2016",
+      "postedOnTwitter": 1,
+      "id": 7
+    },
+    {
+      "approved": 1,
+      "date": "03/17/2016",
+      "tweet": "tweet from sarthak",
+      "datePosted": "03/17/2016",
+      "postedOnTwitter": 1,
+      "id": 8
+    }
+  ],
+  "register": [
+    {
+      "username": "shankar",
+      "password": "test",
+      "id": 1
+    },
+    {
+      "username": "shankart",
+      "password": "test",
+      "id": 2
+    },
+    {
+      "username": "tiwari",
+      "password": "asd",
+      "id": 3
+    },
+    {
+      "username": "ssaxena",
+      "password": "ssaxena",
+      "id": 4
+    }
+  ]
+}
